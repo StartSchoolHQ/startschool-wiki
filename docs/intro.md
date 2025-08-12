@@ -1,47 +1,45 @@
 ---
 sidebar_position: 1
+title: "Introduction"
+description: "Welcome to the StartSchool Documentation Hub"
+slug: /
 ---
 
-# Tutorial Intro
+## Welcome to the StartSchool Documentation Hub! 🚀
 
-Let's discover **Docusaurus in less than 5 minutes**.
+This is the official documentation site for our journey! Here, you'll find solutions to common problems, tips and tricks, and insights that we've gathered to help us (and future students) succeed. Whether you're troubleshooting a bug or looking for advice on best practices, this is the place for you.
 
-## Getting Started
+## Purpose of This Documentation
 
-Get started by **creating a new site**.
+Our bootcamp is an exciting, challenging learning experience where we constantly solve new problems and encounter obstacles. This documentation is meant to:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- 📖 **Document Issues**: Record the bugs, errors, and challenges we face during the bootcamp.
+- 🔧 **Provide Solutions**: Share detailed solutions, workarounds, and insights to help you overcome similar issues.
+- 💡 **Tips & Tricks**: Collect helpful tips, best practices, and shortcuts to make your development journey easier.
+- 🤝 **Collaborate & Learn**: Serve as a collaborative knowledge base where everyone can contribute their experiences and solutions.
 
-### What you'll need
+## Who Is This For?
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+This documentation is designed for:
 
-## Generate a new site
+- **Current Bootcamp Students**: To learn from our collective experiences.
+- **Future Bootcamp Students**: To get a head start by understanding common issues and challenges.
+- **Tech Hero Team**: To provide effective support by having a single resource to refer to.
 
-Generate a new Docusaurus site using the **classic template**.
+## How to Use This Documentation
 
-The classic template will automatically be added to your project after you run the command:
+You can navigate through the sidebar to find categories that interest you. The documentation is divided into sections like:
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+- **Onboarding**: Essential setup and getting started information
+- **Preseason**: Pre-bootcamp preparation and web/data fundamentals
+- **Season 01**: C programming fundamentals and first projects
+- **Season 02**: Advanced programming concepts
+- **Season 03**: Final projects and advanced topics
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+If you encounter any issue that isn't covered here or have a solution you'd like to add, feel free to contribute! Together, we can build a resource that helps everyone succeed.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## Let's Get Started
 
-## Start your site
+Click on the sections in the sidebar to start exploring!
 
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Happy Coding! 💻✨
