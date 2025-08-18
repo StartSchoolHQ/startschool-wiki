@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'StartSchool Wiki',
-  tagline: 'Your comprehensive guide to coding bootcamp success',
+  title: 'StartSchool Tech Module guide',
+  // tagline: 'Your comprehensive guide to coding bootcamp success',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -87,7 +87,7 @@ const config = {
         title: 'StartSchool Wiki',
         logo: {
           alt: 'StartSchool Wiki Logo',
-          src: 'img/logo.svg',
+          src: 'img/StartSchool_round_pink.png',
         },
         items: [
           {
