@@ -18,7 +18,24 @@ const sidebars = {
       type: 'category',
       label: 'Collaborative Coding',
       items: [
-        'Collaborative Coding/session01',
+        {
+          type: 'category',
+          label: 'Project 1 "My Team Site"',
+          items: [
+            'CollaborativeCoding/Project 1/my-team-site',
+            'CollaborativeCoding/Project 1/session01',
+            'CollaborativeCoding/Project 1/session02',
+            'CollaborativeCoding/Project 1/session03'
+          ],
+        },
+        // {
+        //   type: 'category',
+        //   label: 'Project 2',
+        //   items: [
+        //     'Collaborative Coding/Project 2/session01',
+        //     'Collaborative Coding/Project 2/session02',
+        //   ],
+        // },
       ],
     },
   ],
