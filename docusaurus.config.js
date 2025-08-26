@@ -82,44 +82,34 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      // image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'StartSchool Tech module',
-        logo: {
-          alt: 'StartSchool Logo',
-          src: 'img/StartSchool_round_pink.png',
-        },
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'liveCodingSidebar',
             position: 'left',
             label: 'Live Coding',
           },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'collabCodingSidebar',
+          //   position: 'left',
+          //   label: 'Collaborative Coding',
+          // },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'caseStudiesSidebar',
+          //   position: 'left',
+          //   label: 'Case Studies',
+          // },
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Collaborative Coding',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Case Studies',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'documentationSidebar',
             position: 'left',
             label: 'Documentation',
           },
-          // {to: '/blog', label: 'Blog', position: 'left'},
-          // {
-          //   href: 'https://github.com/start-school/start-school-wiki',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
         ],
       },
       footer: {

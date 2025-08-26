@@ -14,185 +14,172 @@
 
  @type {import('@docusaurus/plugin-content-docs').SidebarsConfig}
  */
- const sidebars = {
-  tutorialSidebar: [
-    // {
-    //   type: 'category',
-    //   label: 'Intro',
-    //   items: [
-    //     'intro', // your existing intro page
-    //     // add more intro-related docs here if needed
-    //   ],
-    // },
-    // {
-    //   type: 'category',
-    //   label: 'Live Coding',
-    //   items: [
-    //     // add your live coding docs here
-    //     'Live Coding/session01',
-    //     'Live Coding/session02',
-    //   ],
-    // },
-    // {
-    //   type: 'category',
-    //   label: 'Collab Coding',
-    //   items: [
-    //     // add your collab coding docs here
-    //     'Collab Coding/session01',
-    //     'Collab Coding/session02',
-    //   ],
-    // },
-    // {
-    //   type: 'category',
-    //   label: 'Case Studies',
-    //   items: [
-    //     // add your case study docs here
-    //     'Case Studies/study01',
-    //     'Case Studies/study02',
-    //   ],
-    // },
+// sidebars.js
+const sidebars = {
+  liveCodingSidebar: [
     {
       type: 'category',
-      label: 'Wiki', // top-level wiki category
+      label: 'Live Coding',
+      items: [
+        'Live Coding/session01',
+      ],
+    },
+  ],
+
+  // collabCodingSidebar: [
+  //   {
+  //     type: 'category',
+  //     label: 'Collaborative Coding',
+  //     items: [
+  //       'Collab Coding/session01',
+  //       'Collab Coding/session02',
+  //     ],
+  //   },
+  // ],
+
+  // caseStudiesSidebar: [
+  //   {
+  //     type: 'category',
+  //     label: 'Case Studies',
+  //     items: [
+  //       'Case Studies/study01',
+  //       'Case Studies/study02',
+  //     ],
+  //   },
+  // ],
+
+  documentationSidebar: [
+    {
+      type: 'category',
+      label: 'Onboarding',
+      link: {
+        type: 'generated-index',
+        description: 'Tips & Tricks to pass the pre-season web',
+      },
+      items: ['Onboarding/Onboarding'],
+    },
+    {
+      type: 'category',
+      label: 'Preseason',
+      link: {
+        type: 'generated-index',
+        description: 'Pre-bootcamp preparation and setup',
+      },
       items: [
         {
           type: 'category',
-          label: 'Onboarding',
-          link: {
-            type: 'generated-index',
-            description: 'Tips & Tricks to pass the pre-season web',
-          },
-          items: ['Onboarding/Onboarding'],
-        },
-        {
-          type: 'category',
-          label: 'Preseason',
-          link: {
-            type: 'generated-index',
-            description: 'Pre-bootcamp preparation and setup',
-          },
+          label: 'Web',
           items: [
-            {
-              type: 'category',
-              label: 'Web',
-              items: [
-                'Preseason/Web/exercise-hello-name',
-                'Preseason/Web/exercise-my-add',
-                'Preseason/Web/exercise-my-array-uniq',
-                'Preseason/Web/exercise-my-count-on-it',
-                'Preseason/Web/exercise-my-each',
-                'Preseason/Web/exercise-my-fibonacci',
-                'Preseason/Web/exercise-my-putstr',
-                'Preseason/Web/exercise-my-recursive-pow',
-                'Preseason/Web/Bootcamp JS/01',
-                'Preseason/Web/Bootcamp JS/02',
-                'Preseason/Web/Bootcamp JS/03',
-                'Preseason/Web/Bootcamp JS/04',
-                'Preseason/Web/Bootcamp JS/07',
-                'Preseason/Web/my-bouncing-box',
-                'Preseason/Web/my-first-backend',
-                'Preseason/Web/my-spaceship',
-                'Preseason/Web/my-css-is-easy-i',
-              ],
-            },
-            {
-              type: 'category',
-              label: 'Data',
-              items: [
-                'Preseason/Data/Bootcamp Python/My Levenshtein',
-                'Preseason/Data/Bootcamp Python/My Roman Numerals',
-                'Preseason/Data/Bootcamp Python/Python Quest01',
-                'Preseason/Data/Bootcamp Python/Python Quest02',
-                'Preseason/Data/Bootcamp Python/Python Quest03',
-                'Preseason/Data/Bootcamp Python/Quest04',
-                'Preseason/Data/Bootcamp Python/Quest05',
-                'Preseason/Data/Bootcamp Python/Quest06',
-                'Preseason/Data/My Cat',
-                'Preseason/Data/My First Scraper',
-                'Preseason/Data/My Imdb Api',
-                'Preseason/Data/Quest00',
-              ],
-            },
+            'Preseason/Web/exercise-hello-name',
+            'Preseason/Web/exercise-my-add',
+            'Preseason/Web/exercise-my-array-uniq',
+            'Preseason/Web/exercise-my-count-on-it',
+            'Preseason/Web/exercise-my-each',
+            'Preseason/Web/exercise-my-fibonacci',
+            'Preseason/Web/exercise-my-putstr',
+            'Preseason/Web/exercise-my-recursive-pow',
+            'Preseason/Web/Bootcamp JS/01',
+            'Preseason/Web/Bootcamp JS/02',
+            'Preseason/Web/Bootcamp JS/03',
+            'Preseason/Web/Bootcamp JS/04',
+            'Preseason/Web/Bootcamp JS/07',
+            'Preseason/Web/my-bouncing-box',
+            'Preseason/Web/my-first-backend',
+            'Preseason/Web/my-spaceship',
+            'Preseason/Web/my-css-is-easy-i',
           ],
         },
         {
           type: 'category',
-          label: 'Season 01',
-          link: {
-            type: 'generated-index',
-            description: 'First season of the bootcamp - C programming fundamentals',
-          },
+          label: 'Data',
           items: [
-            {
-              type: 'category',
-              label: 'Bootcamp C Arc 01',
-              items: [
-                'Season 01/Bootcamp C Arc 01/exercise__ my_strchr',
-                'Season 01/Bootcamp C Arc 01/exercise__ my_string_formatting',
-                'Season 01/Bootcamp C Arc 01/exercise__my_iterative_factorial',
-                'Season 01/Bootcamp C Arc 01/exercise__my_print_alphabet',
-                'Season 01/Bootcamp C Arc 01/exercise__my_recursive_factorial',
-                'Season 01/Bootcamp C Arc 01/exercise__my_recursive_pow',
-                'Season 01/Bootcamp C Arc 01/exercise__my_sub',
-                'Season 01/Bootcamp C Arc 01/quest01',
-              ],
-            },
-            'Season 01/my-printf',
-            'Season 01/my-ngram',
-            'Season 01/my-mastermind',
+            'Preseason/Data/Bootcamp Python/My Levenshtein',
+            'Preseason/Data/Bootcamp Python/My Roman Numerals',
+            'Preseason/Data/Bootcamp Python/Python Quest01',
+            'Preseason/Data/Bootcamp Python/Python Quest02',
+            'Preseason/Data/Bootcamp Python/Python Quest03',
+            'Preseason/Data/Bootcamp Python/Quest04',
+            'Preseason/Data/Bootcamp Python/Quest05',
+            'Preseason/Data/Bootcamp Python/Quest06',
+            'Preseason/Data/My Cat',
+            'Preseason/Data/My First Scraper',
+            'Preseason/Data/My Imdb Api',
+            'Preseason/Data/Quest00',
           ],
         },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Season 01',
+      link: {
+        type: 'generated-index',
+        description: 'First season of the bootcamp - C programming fundamentals',
+      },
+      items: [
         {
           type: 'category',
-          label: 'Season 02',
-          link: {
-            type: 'generated-index',
-            description: 'Second season of the bootcamp',
-          },
+          label: 'Bootcamp C Arc 01',
           items: [
-            {
-              type: 'category',
-              label: 'Data Science',
-              items: ['Season 02/Data Science/quest01'],
-            },
-            {
-              type: 'category',
-              label: 'Fullstack',
-              items: [
-                'Season 02/Fullstack/Bootcamp Ruby/Quest01',
-                'Season 02/Fullstack/CSS2',
-                'Season 02/Fullstack/My Tetris',
-                'Season 02/Fullstack/MyAllocine',
-                'Season 02/Fullstack/MyBasecamp1',
-                'Season 02/Fullstack/MySqlite',
-                'Season 02/Fullstack/MyUsersApp',
-                'Season 02/Fullstack/SelectQuery',
-                'Season 02/Fullstack/Wordpress',
-              ],
-            },
+            'Season 01/Bootcamp C Arc 01/exercise__ my_strchr',
+            'Season 01/Bootcamp C Arc 01/exercise__ my_string_formatting',
+            'Season 01/Bootcamp C Arc 01/exercise__my_iterative_factorial',
+            'Season 01/Bootcamp C Arc 01/exercise__my_print_alphabet',
+            'Season 01/Bootcamp C Arc 01/exercise__my_recursive_factorial',
+            'Season 01/Bootcamp C Arc 01/exercise__my_recursive_pow',
+            'Season 01/Bootcamp C Arc 01/exercise__my_sub',
+            'Season 01/Bootcamp C Arc 01/quest01',
           ],
         },
+        'Season 01/my-printf',
+        'Season 01/my-ngram',
+        'Season 01/my-mastermind',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Season 02',
+      link: {
+        type: 'generated-index',
+        description: 'Second season of the bootcamp',
+      },
+      items: [
+        { type: 'category', label: 'Data Science', items: ['Season 02/Data Science/quest01'] },
         {
           type: 'category',
-          label: 'Season 03',
-          link: {
-            type: 'generated-index',
-            description: 'Third season of the bootcamp',
-          },
+          label: 'Fullstack',
           items: [
-            'Season 03/Backend/quest01',
-            'Season 03/Cloud/quest01',
-            'Season 03/Data Science/quest01',
-            'Season 03/Frontend/quest01',
-            'Season 03/Java/quest01',
-            'Season 03/Machine Learning/quest01',
-            'Season 03/Python/quest01',
+            'Season 02/Fullstack/Bootcamp Ruby/Quest01',
+            'Season 02/Fullstack/CSS2',
+            'Season 02/Fullstack/My Tetris',
+            'Season 02/Fullstack/MyAllocine',
+            'Season 02/Fullstack/MyBasecamp1',
+            'Season 02/Fullstack/MySqlite',
+            'Season 02/Fullstack/MyUsersApp',
+            'Season 02/Fullstack/SelectQuery',
+            'Season 02/Fullstack/Wordpress',
           ],
         },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Season 03',
+      link: {
+        type: 'generated-index',
+        description: 'Third season of the bootcamp',
+      },
+      items: [
+        'Season 03/Backend/quest01',
+        'Season 03/Cloud/quest01',
+        'Season 03/Data Science/quest01',
+        'Season 03/Frontend/quest01',
+        'Season 03/Java/quest01',
+        'Season 03/Machine Learning/quest01',
+        'Season 03/Python/quest01',
       ],
     },
   ],
 };
 
 export default sidebars;
-

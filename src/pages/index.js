@@ -24,7 +24,7 @@ function HomepageHeader() {
           </Link>
           <Link
             className="button button--secondary button--lg"
-            to="/docs">
+            to="/docs/Live%20Coding/session01">
             Live Coding
           </Link>
           <Link
