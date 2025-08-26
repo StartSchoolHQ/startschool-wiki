@@ -1,22 +1,25 @@
-# StartSchool Wiki 
+# StartSchool Tech Module Documentation  
 
-A comprehensive documentation hub for coding bootcamp students, featuring solutions to common problems, tips and tricks, and insights gathered throughout the learning journey.
+Comprehensive documentation for StartSchool students, featuring group session tasks and goals, solutions to common challenges, practical tips, and insights gathered throughout the learning journey.  
 
-## Features
+## Features  
 
-- **Comprehensive Documentation**: Covers all seasons of the bootcamp
-- **Problem Solutions**: Detailed solutions to common coding challenges
-- **Best Practices**: Tips and tricks for efficient development
-- **Modern UI**: Built with Docusaurus 3.8 for optimal performance
-- **Responsive Design**: Works perfectly on all devices
+- **Documentation**: Covers all seasons of the StartSchool Tech Module, along with the content from group collaboration sessions
+- **Problem Solutions**: Step-by-step solutions to common coding challenges and bugs on the Qwasar platform  
+- **Best Practices**: Tips and strategies from previous students to support efficient development  
 
-## Documentation Sections
+## Documentation Sections  
 
-- **Onboarding**: Essential setup and getting started information
-- **Preseason**: Pre-bootcamp preparation and fundamentals
-- **Season 01**: C programming fundamentals and first projects
-- **Season 02**: Advanced programming concepts
-- **Season 03**: Final projects and advanced topics
+- **Live Coding**: Themes, examples, and resources for Live Coding sessions  
+- **Collaborative Coding**: Session objectives, tasks, and collaboration guidelines  
+- **Case Studies**: In-depth analyses of case studies discussed during sessions
+- **Qwasar Platform Tips & Tricks**
+  - **Onboarding**: Essential setup instructions and getting started resources  
+  - **Preseason**: Pre-bootcamp preparation and programming fundamentals  
+  - **Season 01**: C programming foundations and introductory projects  
+  - **Season 02**: Advanced programming concepts and intermediate projects  
+  - **Season 03**: Final projects, specialization tracks, and advanced topics  
+
 
 ## Getting Started
 
