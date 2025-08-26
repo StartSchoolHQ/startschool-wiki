@@ -5,7 +5,7 @@ description: "Welcome to the StartSchool Documentation Hub"
 slug: /
 ---
 
-## Welcome to the StartSchool Documentation Hub! 🚀
+## Welcome to the StartSchool Documentation Hub! 
 
 This is the official documentation site for our journey! Here, you'll find solutions to common problems, tips and tricks, and insights that we've gathered to help us (and future students) succeed. Whether you're troubleshooting a bug or looking for advice on best practices, this is the place for you.
 
@@ -13,10 +13,10 @@ This is the official documentation site for our journey! Here, you'll find solut
 
 Our bootcamp is an exciting, challenging learning experience where we constantly solve new problems and encounter obstacles. This documentation is meant to:
 
-- 📖 **Document Issues**: Record the bugs, errors, and challenges we face during the bootcamp.
-- 🔧 **Provide Solutions**: Share detailed solutions, workarounds, and insights to help you overcome similar issues.
-- 💡 **Tips & Tricks**: Collect helpful tips, best practices, and shortcuts to make your development journey easier.
-- 🤝 **Collaborate & Learn**: Serve as a collaborative knowledge base where everyone can contribute their experiences and solutions.
+- **Document Issues**: Record the bugs, errors, and challenges we face during the bootcamp.
+- **Provide Solutions**: Share detailed solutions, workarounds, and insights to help you overcome similar issues.
+- **Tips & Tricks**: Collect helpful tips, best practices, and shortcuts to make your development journey easier.
+- **Collaborate & Learn**: Serve as a collaborative knowledge base where everyone can contribute their experiences and solutions.
 
 ## Who Is This For?
 
@@ -42,4 +42,4 @@ If you encounter any issue that isn't covered here or have a solution you'd like
 
 Click on the sections in the sidebar to start exploring!
 
-Happy Coding! 💻✨
+Happy Coding!

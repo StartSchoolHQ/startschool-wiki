@@ -1,8 +1,8 @@
-# StartSchool Wiki 🚀
+# StartSchool Wiki 
 
 A comprehensive documentation hub for coding bootcamp students, featuring solutions to common problems, tips and tricks, and insights gathered throughout the learning journey.
 
-## 🌟 Features
+## Features
 
 - **Comprehensive Documentation**: Covers all seasons of the bootcamp
 - **Problem Solutions**: Detailed solutions to common coding challenges
@@ -10,7 +10,7 @@ A comprehensive documentation hub for coding bootcamp students, featuring soluti
 - **Modern UI**: Built with Docusaurus 3.8 for optimal performance
 - **Responsive Design**: Works perfectly on all devices
 
-## 📚 Documentation Sections
+## Documentation Sections
 
 - **Onboarding**: Essential setup and getting started information
 - **Preseason**: Pre-bootcamp preparation and fundamentals
@@ -18,7 +18,7 @@ A comprehensive documentation hub for coding bootcamp students, featuring soluti
 - **Season 02**: Advanced programming concepts
 - **Season 03**: Final projects and advanced topics
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -57,7 +57,7 @@ npm run build
 npm run serve
 ```
 
-## 🛠️ Development
+## Development
 
 ### Project Structure
 
@@ -93,7 +93,7 @@ We welcome contributions! Please:
 3. Make your changes
 4. Submit a pull request
 
-## 🎯 Performance Features
+## Performance Features
 
 This wiki uses Docusaurus 3.8 with the following performance optimizations:
 
@@ -102,17 +102,17 @@ This wiki uses Docusaurus 3.8 with the following performance optimizations:
 - **CSS Cascade Layers**: Modern CSS features for better performance
 - **Future Flags**: Preparation for Docusaurus v4
 
-## 📖 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Support
+## Support
 
 - **Discord**: Join our community for help and collaboration
 - **GitHub Issues**: Report bugs or request new features
 - **Documentation**: Check the docs for detailed guides
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Built with [Docusaurus](https://docusaurus.io/)
 - Community contributions from StartSchool bootcamp students
@@ -120,6 +120,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Happy Coding! 💻✨**
+**Happy Coding!
 
 *Built with ❤️ by the StartSchool community*
