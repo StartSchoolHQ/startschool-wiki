@@ -1,19 +1,6 @@
 // @ts-check
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
-
-/**
- * Creating a sidebar enables you to:
- - create an ordered group of docs
- - render a sidebar for each doc of that group
- - provide next/previous navigation
-
- The sidebars can be generated from the filesystem, or explicitly defined here.
-
- Create as many sidebars as you want.
-
- @type {import('@docusaurus/plugin-content-docs').SidebarsConfig}
- */
 // sidebars.js
 const sidebars = {
   liveCodingSidebar: [
@@ -26,16 +13,15 @@ const sidebars = {
     },
   ],
 
-  // collabCodingSidebar: [
-  //   {
-  //     type: 'category',
-  //     label: 'Collaborative Coding',
-  //     items: [
-  //       'Collab Coding/session01',
-  //       'Collab Coding/session02',
-  //     ],
-  //   },
-  // ],
+  collabCodingSidebar: [
+    {
+      type: 'category',
+      label: 'Collaborative Coding',
+      items: [
+        'Collaborative Coding/session01',
+      ],
+    },
+  ],
 
   // caseStudiesSidebar: [
   //   {

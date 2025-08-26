@@ -81,7 +81,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
       // image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'StartSchool Tech module',
@@ -92,12 +91,12 @@ const config = {
             position: 'left',
             label: 'Live Coding',
           },
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'collabCodingSidebar',
-          //   position: 'left',
-          //   label: 'Collaborative Coding',
-          // },
+          {
+            type: 'docSidebar',
+            sidebarId: 'collabCodingSidebar',
+            position: 'left',
+            label: 'Collaborative Coding',
+          },
           // {
           //   type: 'docSidebar',
           //   sidebarId: 'caseStudiesSidebar',
