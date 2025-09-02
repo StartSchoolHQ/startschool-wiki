@@ -22,17 +22,13 @@ const config = {
     },
   },
 
-  // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
 
   // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
   organizationName: 'StartSchoolHQ',
-  projectName: 'startSchool-wiki',
-  deploymentBranch: 'master',
+  projectName: 'startSchool-wiki',       
+  url: 'https://startschoolhq.github.io',
+  baseUrl: '/startSchool-wiki/', 
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'warn', // Changed from 'throw' to 'warn' to allow build to continue
   onBrokenMarkdownLinks: 'warn',
