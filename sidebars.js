@@ -40,16 +40,16 @@ const sidebars = {
     },
   ],
 
-  // caseStudiesSidebar: [
-  //   {
-  //     type: 'category',
-  //     label: 'Case Studies',
-  //     items: [
-  //       'Case Studies/study01',
-  //       'Case Studies/study02',
-  //     ],
-  //   },
-  // ],
+  caseStudiesSidebar: [
+    {
+      type: 'category',
+      label: 'Case Studies',
+      items: [
+        'CaseStudies/Session 1/study01',
+        // 'Case Studies/study02',
+      ],
+    },
+  ],
 
   documentationSidebar: [
     {

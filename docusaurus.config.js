@@ -97,12 +97,12 @@ const config = {
             position: 'left',
             label: 'Collaborative Coding',
           },
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'caseStudiesSidebar',
-          //   position: 'left',
-          //   label: 'Case Studies',
-          // },
+          {
+            type: 'docSidebar',
+            sidebarId: 'caseStudiesSidebar',
+            position: 'left',
+            label: 'Case Studies',
+          },
           {
             type: 'docSidebar',
             sidebarId: 'documentationSidebar',

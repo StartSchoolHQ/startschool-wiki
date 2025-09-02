@@ -17,11 +17,11 @@ function HomepageHeader() {
         </Heading> */}
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
-          <Link
+          {/* <Link
             className="button button--secondary button--lg"
             to="/docs">
             Introduction
-          </Link>
+          </Link> */}
           <Link
             className="button button--secondary button--lg"
             to="/docs/Live%20Coding/session01">
@@ -34,7 +34,7 @@ function HomepageHeader() {
           </Link>
           <Link
             className="button button--secondary button--lg"
-            to="/docs">
+            to="/docs/CaseStudies/Session%201/study01">
             Case Studies
           </Link>
         </div>
