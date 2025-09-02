@@ -30,8 +30,9 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'start-school', // Usually your GitHub org/user name.
-  projectName: 'start-school-wiki', // Usually your repo name.
+  organizationName: 'StartSchoolHQ',
+  projectName: 'startSchool-wiki',
+  deploymentBranch: 'master',
 
   onBrokenLinks: 'warn', // Changed from 'throw' to 'warn' to allow build to continue
   onBrokenMarkdownLinks: 'warn',
