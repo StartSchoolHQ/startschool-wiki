@@ -2,7 +2,7 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
+// import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
@@ -10,17 +10,32 @@ import styles from './index.module.css';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
+    <header className={clsx('hero hero--secondary', styles.heroBanner)}>
       <div className="container">
-        <Heading as="h1" className="hero__title">
+        {/* <Heading as="h1" className="hero__title">
           {siteConfig.title}
-        </Heading>
+        </Heading> */}
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
-          <Link
+          {/* <Link
             className="button button--secondary button--lg"
             to="/docs">
-            Start Learning 🚀
+            Introduction
+          </Link> */}
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/Live%20Coding/session01">
+            Live Coding
+          </Link>
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/CollaborativeCoding/Project%201/my-team-site">
+            Collaborative Coding
+          </Link>
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/CaseStudies/Session%201/study01">
+            Case Studies
           </Link>
         </div>
       </div>
@@ -35,9 +50,9 @@ export default function Home() {
       title={`Welcome to ${siteConfig.title}`}
       description="Your comprehensive guide to coding bootcamp success">
       <HomepageHeader />
-      <main>
+      {/* <main>
         <HomepageFeatures />
-      </main>
+      </main> */}
     </Layout>
   );
 }

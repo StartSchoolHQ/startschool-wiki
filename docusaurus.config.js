@@ -10,9 +10,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'StartSchool Wiki',
-  tagline: 'Your comprehensive guide to coding bootcamp success',
-  favicon: 'img/favicon.ico',
+  title: 'StartSchool Tech Module guide',
+  // tagline: 'Your comprehensive guide to coding bootcamp success',
+  favicon: 'img/StartSchool_round_pink.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -81,41 +81,48 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      // image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'StartSchool Wiki',
-        logo: {
-          alt: 'StartSchool Wiki Logo',
-          src: 'img/logo.svg',
-        },
+        title: 'StartSchool Tech module',
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'liveCodingSidebar',
+            position: 'left',
+            label: 'Live Coding',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'collabCodingSidebar',
+            position: 'left',
+            label: 'Collaborative Coding',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'caseStudiesSidebar',
+            position: 'left',
+            label: 'Case Studies',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'documentationSidebar',
             position: 'left',
             label: 'Documentation',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/start-school/start-school-wiki',
-            label: 'GitHub',
-            position: 'right',
           },
         ],
       },
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Documentation',
-            items: [
-              {
-                label: 'Introduction',
-                to: '/',
-              },
-            ],
-          },
+          // {
+          //   title: 'Documentation',
+          //   items: [
+          //     {
+          //       label: 'Introduction',
+          //       to: '/',
+          //     },
+          //   ],
+          // },
           {
             title: 'Community',
             items: [
@@ -129,21 +136,8 @@ const config = {
               },
             ],
           },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/start-school/start-school-wiki',
-              },
-            ],
-          },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} StartSchool Wiki. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} StartSchool Tech Module. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

@@ -1,23 +1,57 @@
 // @ts-check
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
-
-/**
- * Creating a sidebar enables you to:
- - create an ordered group of docs
- - render a sidebar for each doc of that group
- - provide next/previous navigation
-
- The sidebars can be generated from the filesystem, or explicitly defined here.
-
- Create as many sidebars as you want.
-
- @type {import('@docusaurus/plugin-content-docs').SidebarsConfig}
- */
+// sidebars.js
 const sidebars = {
-  // Main documentation sidebar
-  tutorialSidebar: [
-    'intro',
+  liveCodingSidebar: [
+    {
+      type: 'category',
+      label: 'Live Coding',
+      items: [
+        'Live Coding/session01',
+      ],
+    },
+  ],
+
+  collabCodingSidebar: [
+    {
+      type: 'category',
+      label: 'Collaborative Coding',
+      items: [
+        {
+          type: 'category',
+          label: 'Project 1 "My Team Site"',
+          items: [
+            'CollaborativeCoding/Project 1/my-team-site',
+            'CollaborativeCoding/Project 1/session01',
+            'CollaborativeCoding/Project 1/session02',
+            'CollaborativeCoding/Project 1/session03'
+          ],
+        },
+        // {
+        //   type: 'category',
+        //   label: 'Project 2',
+        //   items: [
+        //     'Collaborative Coding/Project 2/session01',
+        //     'Collaborative Coding/Project 2/session02',
+        //   ],
+        // },
+      ],
+    },
+  ],
+
+  caseStudiesSidebar: [
+    {
+      type: 'category',
+      label: 'Case Studies',
+      items: [
+        'CaseStudies/Session 1/study01',
+        // 'Case Studies/study02',
+      ],
+    },
+  ],
+
+  documentationSidebar: [
     {
       type: 'category',
       label: 'Onboarding',
@@ -25,9 +59,7 @@ const sidebars = {
         type: 'generated-index',
         description: 'Tips & Tricks to pass the pre-season web',
       },
-      items: [
-        'Onboarding/Onboarding',
-      ],
+      items: ['Onboarding/Onboarding'],
     },
     {
       type: 'category',
@@ -115,13 +147,7 @@ const sidebars = {
         description: 'Second season of the bootcamp',
       },
       items: [
-        {
-          type: 'category',
-          label: 'Data Science',
-          items: [
-            'Season 02/Data Science/quest01',
-          ],
-        },
+        { type: 'category', label: 'Data Science', items: ['Season 02/Data Science/quest01'] },
         {
           type: 'category',
           label: 'Fullstack',
