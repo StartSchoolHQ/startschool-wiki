@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstart_school_wiki=self.webpackChunkstart_school_wiki||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/startschool-wiki/blog","blogTitle":"Blog","authorsListPath":"/startschool-wiki/blog/authors"}')}}]);

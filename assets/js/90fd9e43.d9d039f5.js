@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkstart_school_wiki=self.webpackChunkstart_school_wiki||[]).push([[8471],{4010:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/startSchool-wiki/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
