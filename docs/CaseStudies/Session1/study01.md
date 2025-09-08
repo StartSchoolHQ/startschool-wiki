@@ -1,6 +1,6 @@
 ---
 title: "Session 1 | Helpful Feedback"
-description: "case study"
+description: "case study 01"
 id: study01
 ---
 

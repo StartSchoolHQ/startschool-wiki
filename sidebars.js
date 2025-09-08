@@ -45,10 +45,24 @@ const sidebars = {
       type: 'category',
       label: 'Case Studies',
       items: [
-        'CaseStudies/Session 1/study01',
-        // 'Case Studies/study02',
+        {
+          type: 'category',
+          label: 'Session 1',
+          items: [
+            'CaseStudies/Session1/study01',
+            'CaseStudies/Session1/debrief01',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Session 2',
+          items: [
+            'CaseStudies/Session2/study02',
+            // 'CaseStudies/Session2/debrief02',
+          ],
+        },
       ],
-    },
+    }
   ],
 
   documentationSidebar: [
