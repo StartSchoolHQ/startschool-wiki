@@ -15,7 +15,7 @@ id: session02
 - Add hover effects on links or buttons  
 
 ## Skills Covered
-- External CSS file  
+- External CSS file (consider what are other ways to add styles?)  
 - Selectors and class names  
 - Flexbox or basic grid for layout  
 - Fonts (e.g., Google Fonts), colors, backgrounds  

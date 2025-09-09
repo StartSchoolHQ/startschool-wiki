@@ -11,7 +11,7 @@ id: session01
 **The Skeleton**
 
 ### What to Build
-A homepage with:
+A homepage with each team members:
 
 - Name
 - Photo or avatar
