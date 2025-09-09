@@ -11,7 +11,7 @@ id: session01
 **The Skeleton**
 
 ### What to Build
-A homepage with each team members:
+A homepage with each team member's:
 
 - Name
 - Photo or avatar
@@ -26,3 +26,18 @@ A homepage with each team members:
 
 ### Outcome
 Students have a working single-page website with real content, but no styling or JavaScript yet.
+
+### 2-Minute Presentation Requirements  
+
+#### Show Your Page 
+- Open it in the browser.  
+- Point out one section you’re proud of (e.g., bio, fun facts, or contact section).  
+
+#### Explain Your HTML 
+- Show the structure of your file (`<!DOCTYPE>`, `<head>`, `<body>`).  
+- Mention one semantic tag you used (`<main>`, `<section>`, `<footer>`) and why.  
+- Highlight one piece of content you added (image, list, or link).  
+
+#### Reflect 
+- Briefly say what was easy vs. what was challenging.  
+- Share one thing you’d like to add or improve if you had more time.  
