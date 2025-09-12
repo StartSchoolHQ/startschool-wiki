@@ -16,17 +16,17 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/Live%20Coding/session01">
+            to="/docs/LiveCoding/session01">
             Live Coding
           </Link>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/CollaborativeCoding/Project%201/my-team-site">
+            to="/docs/CollaborativeCoding/Project1/my-team-site">
             Collaborative Coding
           </Link>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/CaseStudies/Session%201/study01">
+            to="/docs/CaseStudies/Session1/study01">
             Case Studies
           </Link>
         </div>
@@ -40,7 +40,7 @@ export default function Home() {
   return (
     <Layout
       title={`Welcome to ${siteConfig.title}`}
-      description="Your comprehensive guide to coding bootcamp success">
+      description="Your comprehensive guide to StartSchool coding success">
       <HomepageHeader />
       {/* <main>
         <HomepageFeatures />
