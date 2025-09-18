@@ -29,6 +29,11 @@ function HomepageHeader() {
             to="/docs/CaseStudies/Session1/study01">
             Case Studies
           </Link>
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/generalinformation">
+            General Information
+          </Link>
         </div>
       </div>
     </header>
