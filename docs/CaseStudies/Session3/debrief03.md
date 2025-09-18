@@ -1,5 +1,5 @@
 ---
-title: "Session 3 | Chat Control Debrief"
+title: "Debrief | Chat Control Debrief"
 description: "debrief 03"
 id: debrief03
 ---

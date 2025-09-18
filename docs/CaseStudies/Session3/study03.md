@@ -1,5 +1,5 @@
 ---
-title: "Session 3 | Chat Control"
+title: "Case | Chat Control"
 description: "case study 03"
 id: study03
 ---

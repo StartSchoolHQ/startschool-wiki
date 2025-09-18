@@ -1,10 +1,10 @@
 ---
-title: "Session 1 | Helpful Feedback"
+title: "Case | Helpful Feedback"
 description: "case study 01"
 id: study01
 ---
 
-# Scenario 1: The Helpful Feedback
+# The Helpful Feedback
 
 ## Scenario
 During a coding review session at StartSchool, Maya, a 61-year-old career changer from marketing, is presenting her mobile app prototype to a small group. The app is designed to help elderly users manage their medications.

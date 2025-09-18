@@ -1,5 +1,5 @@
 ---
-title: "Session 2 | My_Printf Case Study"
+title: "Case | My_Printf"
 id: study02
 description: "case study 02"
 ---

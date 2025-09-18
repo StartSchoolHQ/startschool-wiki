@@ -1,5 +1,5 @@
 ---
-title: "Session 2 | My_Printf Debrief"
+title: "Debrief | My_Printf Debrief"
 id: debrief02
 description: "debrief 02"
 ---

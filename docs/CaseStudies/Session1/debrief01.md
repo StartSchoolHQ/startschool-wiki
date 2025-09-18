@@ -1,5 +1,5 @@
 ---
-title: "Debrief 1 | Understanding Micro-Aggressions"
+title: "Debrief | Helpful Feedback"
 description: "debrief 01"
 id: debrief01
 ---
