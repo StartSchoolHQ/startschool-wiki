@@ -105,20 +105,17 @@ const config = {
             position: 'left',
             label: 'Documentation',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'generalInformationSidebar',
+            position: 'left',
+            label: 'General information',
+          },
         ],
       },
       footer: {
         style: 'dark',
         links: [
-          // {
-          //   title: 'Documentation',
-          //   items: [
-          //     {
-          //       label: 'Introduction',
-          //       to: '/',
-          //     },
-          //   ],
-          // },
           {
             title: 'Community',
             items: [
