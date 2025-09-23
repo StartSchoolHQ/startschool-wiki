@@ -24,17 +24,17 @@ export const   caseStudiesSidebar = [
           label: 'Session 3',
           items: [
             'CaseStudies/Session3/study03',
-            // 'CaseStudies/Session3/debrief03',
+            'CaseStudies/Session3/debrief03',
           ],
         },
-        // {
-        //   type: 'category',
-        //   label: 'Session 4',
-        //   items: [
-        //     'CaseStudies/Session4/study04',
-        //     'CaseStudies/Session4/debrief04',
-        //   ],
-        // },
+        {
+          type: 'category',
+          label: 'Session 4',
+          items: [
+            'CaseStudies/Session4/study04',
+            // 'CaseStudies/Session4/debrief04',
+          ],
+        },
       ],
     }
   ]
