@@ -26,18 +26,13 @@ function HomepageHeader() {
           </Link>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/CaseStudies/Session1/study04">
+            to="/docs/CaseStudies/Session5/study05">
             Case Studies
           </Link>
           <Link
             className="button button--secondary button--lg"
             to="/docs/generalinformation">
             General Information
-          </Link>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/FrontendDevelopment/frontendDevelopment">
-            FE Development
           </Link>
         </div>
       </div>
