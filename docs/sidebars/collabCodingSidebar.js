@@ -13,14 +13,15 @@ export const  collabCodingSidebar = [
             'CollaborativeCoding/Project1/session03',
           ],
         },
-        // {
-        //   type: 'category',
-        //   label: 'Project 2',
-        //   items: [
-        //     'Collaborative Coding/Project2/session01',
-        //     'Collaborative Coding/Project2/session02',
-        //   ],
-        // },
+        {
+          type: 'category',
+          label: 'Project 2 | Quiz me if you can',
+          items: [
+            'CollaborativeCoding/Project2/quiz-me-if-you-can',
+            'CollaborativeCoding/Project2/session04',
+            // 'CollaborativeCoding/Project2/session02',
+          ],
+        },
       ],
     },
   ]
