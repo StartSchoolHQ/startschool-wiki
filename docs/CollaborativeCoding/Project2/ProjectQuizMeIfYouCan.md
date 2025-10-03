@@ -19,6 +19,8 @@ Build a fun multiple-choice quiz game in permanent teams that lets users answer 
   Make the quiz look like a real game with clear sections, styled buttons, and fun design elements.  
 
 - **Interactivity and logic (JavaScript)**  
-  Add functionality so that when the quiz is submitted, answers are checked, resultss are calculated, and a playful result (e.g., “You’re a Carrot!”) is displayed.  
+  Add functionality so that when the quiz is submitted, answers are checked, results are calculated, and a playful result (e.g., “You’re a Carrot!”) is displayed.  
 
 Each session builds on the last and introduces one new major concept.
+
+## [Feedback form](https://docs.google.com/forms/d/e/1FAIpQLScjD7fQjUnVvk-M0Pqz7JzMubixjFH8KJrhGOdkzwly0zzZiA/viewform)

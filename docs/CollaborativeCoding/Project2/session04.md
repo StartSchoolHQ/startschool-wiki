@@ -4,7 +4,7 @@ description: "collab coding"
 id: session04
 ---
 
-# Session 4 | HTML Skeleton (2 hours)
+# Session 4 | HTML Skeleton 
 
 ## Title: The Quiz Frame
 
