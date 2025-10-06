@@ -1,4 +1,4 @@
-# Debrief: Improved Ad Experience
+# Debrief | Improved Ad Experience
 
 ## Recommended Actions for Maya
 

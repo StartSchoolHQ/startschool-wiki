@@ -43,6 +43,14 @@ export const   caseStudiesSidebar = [
             'CaseStudies/Session5/debrief05',
           ],
         },
+        {
+          type: 'category',
+          label: 'Session 6',
+          items: [
+            'CaseStudies/Session6/study06',
+            // 'CaseStudies/Session6/debrief06',
+          ],
+        },
       ],
     }
   ]
