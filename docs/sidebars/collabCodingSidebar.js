@@ -19,7 +19,7 @@ export const  collabCodingSidebar = [
           items: [
             'CollaborativeCoding/Project2/quiz-me-if-you-can',
             'CollaborativeCoding/Project2/session04',
-            // 'CollaborativeCoding/Project2/session02',
+            'CollaborativeCoding/Project2/session05',
           ],
         },
       ],

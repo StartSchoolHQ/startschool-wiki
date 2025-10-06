@@ -1,19 +1,19 @@
 ---
-title: "Session 2 |"
+title: "Session 5 & 6 | JavaScript & Game Logic"
 description: "collab coding"
 id: session05
 ---
-# Session 5 | JavaScript & Game Logic (2 hours)
+# Session 5&6 | JavaScript & Game Logic
 
 ## Title: The Quiz Brain
 
 ### What to Build
 Teams bring their quiz to life with JavaScript logic:
 
-- Store correct answers in an array/object.  
-- Add event handling: when the user clicks **“Submit”**, JS checks the answers.  
-- Use **if/else** or **switch** statements to calculate a score or personality outcome.  
-- Display results in the **results area**.  
+- Store correct answers in an [array/](https://www.w3schools.com/js/js_arrays.asp)[object](https://www.w3schools.com/js/js_objects.asp).  
+- Add [event](https://www.w3schools.com/js/js_events.asp) handling: when the user clicks **“Submit”**, JS checks the answers.  
+- Use [if/else or switch](https://www.w3schools.com/js/js_conditionals.asp) statements to calculate a score or personality outcome.  
+- Display results in the [results area](https://www.w3schools.com/jsref//prop_html_innerhtml.asp).  
 
 Example:  
 *“You’re a Carrot: bright, crunchy, and full of energy!”*
@@ -29,11 +29,15 @@ Example:
 ---
 
 ### Outcome
-By the end of Session 5, each team has a **fully working multiple-choice quiz game** that gives feedback and a playful *“vegetable personality”* result.
+By the end of **Session 6**, each team has a **fully working multiple-choice quiz game** that gives feedback and a playful *“vegetable personality”* result.
 
 ---
+### Session 5 | 2-Minute Presentation Requirements 
+- **Show the progress.**  
+- Point out **one piece of JavaScript logic** they’re proud of.  
+- Explain **what was hardest to figure out.**  
 
-### 2-Minute Presentation Requirements
+### Session 6 | 2-Minute Presentation Requirements 
 - **Play through their quiz live.**  
 - **Show the result screen.**  
 - Point out **one piece of JavaScript logic** they’re proud of.  

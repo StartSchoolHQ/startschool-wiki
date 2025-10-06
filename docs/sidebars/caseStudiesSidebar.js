@@ -40,7 +40,7 @@ export const   caseStudiesSidebar = [
           label: 'Session 5',
           items: [
             'CaseStudies/Session5/study05',
-            // 'CaseStudies/Session5/debrief05',
+            'CaseStudies/Session5/debrief05',
           ],
         },
       ],
