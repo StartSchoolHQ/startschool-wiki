@@ -18,12 +18,12 @@ Welcome to the **My_printf Project**, where you will create your own version of 
 
 The `my_printf` function produces output according to a specified format. Here's how it works:
 
-- **Format String**: It consists of regular characters and conversion specifications that start with the `%` character. 
+- **Format String**: It consists of regular characters and conversion specifications that start with the `%` character.
 - **Conversion Options**:
-  - `%d`, `%o`, `%u`, `%x`: Convert an integer to signed decimal, unsigned octal, unsigned decimal, and unsigned hexadecimal.
+  - `%d`, `%o`, `%u`, `%x`: Convert an integer to signed decimal, unsigned octal, unsigned decimal, and unsigned hexadecimal. For hexadecimal use uppercase letters.
   - `%c`: Convert an integer to an unsigned char and display it.
-  - `%s`: Print characters from a string until a null character is reached.
-  - `%p`: Print a pointer in hexadecimal format.
+  - `%s`: Print characters from a string until a null character is reached. If pointer is null print "(null)".
+  - `%p`: Print a pointer in hexadecimal format. Leading zeros not needed
 
 ## ⚙️ Requirements
 
