@@ -94,8 +94,13 @@ export const documentationSidebar = [
         description: 'Second season of the bootcamp',
       },
       items: [
-        { type: 'category', label: 'Data Science', items: ['Season 02/Data Science/quest01'] },
-        {
+          {
+              type: 'category', label: 'Data Science', items: [
+                  'Season 02/Data Science/quest01',
+                  'Season 02/Data Science/ds_quest04',
+              ]
+          },
+          {
           type: 'category',
           label: 'Fullstack',
           items: [
