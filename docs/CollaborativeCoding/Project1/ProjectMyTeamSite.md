@@ -1,6 +1,6 @@
 ---
 id: my-team-site
-title: Project Goal
+title: Goal | Project 1
 ---
 
 # My Team Site

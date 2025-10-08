@@ -95,24 +95,26 @@ export const documentationSidebar = [
       },
       items: [
           {
-              type: 'category', label: 'Data Science', items: [
-                  'Season 02/Data Science/ds_quest04',
-              ]
+            type: 'category', 
+            label: 'Data Science', 
+            items: [
+              'Season 02/Data Science/ds_quest04',
+            ]
           },
           {
-          type: 'category',
-          label: 'Fullstack',
-          items: [
-            // 'Season 02/Fullstack/Bootcamp Ruby/Quest01',
-            'Season 02/Fullstack/CSS2',
-            // 'Season 02/Fullstack/My Tetris',
-            'Season 02/Fullstack/MyAllocine',
-            // 'Season 02/Fullstack/MyBasecamp1',
-            // 'Season 02/Fullstack/MySqlite',
-            // 'Season 02/Fullstack/MyUsersApp',
-            // 'Season 02/Fullstack/SelectQuery',
-            // 'Season 02/Fullstack/Wordpress',
-          ],
+            type: 'category',
+            label: 'Fullstack',
+            items: [
+              // 'Season 02/Fullstack/Bootcamp Ruby/Quest01',
+              'Season 02/Fullstack/CSS2',
+              // 'Season 02/Fullstack/My Tetris',
+              'Season 02/Fullstack/MyAllocine',
+              // 'Season 02/Fullstack/MyBasecamp1',
+              // 'Season 02/Fullstack/MySqlite',
+              // 'Season 02/Fullstack/MyUsersApp',
+              // 'Season 02/Fullstack/SelectQuery',
+              // 'Season 02/Fullstack/Wordpress',
+            ],
         },
       ],
     },

@@ -2,6 +2,10 @@ export const  collabCodingSidebar = [
     {
       type: 'category',
       label: 'Collaborative Coding',
+      link: {
+        type: 'generated-index',
+        description: 'Collaborative coding projects',
+      },
       items: [
         {
           type: 'category',

@@ -1,6 +1,6 @@
 ---
 id: quiz-me-if-you-can
-title: Project Goal
+title: Goal | Project 2
 ---
 
 # Quiz Me If You Can
