@@ -96,7 +96,7 @@ export const documentationSidebar = [
       items: [
           {
               type: 'category', label: 'Data Science', items: [
-                  'Season 02/Data Science/quest01',
+                  // 'Season 02/Data Science/quest01',
                   'Season 02/Data Science/ds_quest04',
               ]
           },
@@ -117,22 +117,22 @@ export const documentationSidebar = [
         },
       ],
     },
-    {
-      type: 'category',
-      label: 'Season 03',
-      link: {
-        type: 'generated-index',
-        description: 'Third season of the bootcamp',
-      },
-      items: [
-        'Season 03/Backend/quest01',
-        'Season 03/Cloud/quest01',
-        'Season 03/Data Science/quest01',
-        'Season 03/Frontend/quest01',
-        'Season 03/Java/quest01',
-        'Season 03/Machine Learning/quest01',
-        'Season 03/Python/quest01',
-      ],
-    },
+    // {
+    //   type: 'category',
+    //   label: 'Season 03',
+    //   link: {
+    //     type: 'generated-index',
+    //     description: 'Third season of the bootcamp',
+    //   },
+    //   items: [
+    //     'Season 03/Backend/quest01',
+    //     'Season 03/Cloud/quest01',
+    //     'Season 03/Data Science/quest01',
+    //     'Season 03/Frontend/quest01',
+    //     'Season 03/Java/quest01',
+    //     'Season 03/Machine Learning/quest01',
+    //     'Season 03/Python/quest01',
+    //   ],
+    // },
   ]
   

@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Quest01'
+sidebar_label: 'Cloud Quest01'
 sidebar_position: 3
 ---
 

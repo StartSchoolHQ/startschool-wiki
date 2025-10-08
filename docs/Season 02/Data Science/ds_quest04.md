@@ -10,7 +10,7 @@ Some tasks are confusing though.
 
 ---
 
-## 🧩 For ex00, ex01, ex02
+## For ex00, ex01, ex02
 
 What is done here is **mathematically incorrect** and **logically wrong**.  
 Those exercises are not intuitive, and to solve them you should dive deep into **Gandalf errors** when testing (break your code to get those errors).
@@ -19,14 +19,14 @@ Those exercises are not intuitive, and to solve them you should dive deep into *
 
 ---
 
-### 💡 Hints to Pass the Tests
+### Hints to Pass the Tests
 
 - Nonsense is expected in tests
 - For all Gandalf tests: `len(param_1) <= len(param_2)`
 
 ---
 
-### 📊 Evaluating a Predictive Model
+### Evaluating a Predictive Model
 
 When evaluating a predictive model, the key idea is to compare what the model **predicted** with what is actually **true**.
 
@@ -42,7 +42,7 @@ That way, you’re not comparing random values, but directly evaluating how well
 
 ---
 
-### 🧠 Reasoning About This Exercise
+### Reasoning About This Exercise
 
 For these exercises, my initial intuition was that the field called `model_name` represented the input features `x`,  
 while the remaining values represented `y` for `param_1` and `y_pred` for `param_2`.
