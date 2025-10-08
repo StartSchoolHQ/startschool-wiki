@@ -10,7 +10,7 @@ id: session05
 ### What to Build
 Teams bring their quiz to life with JavaScript logic:
 
-- Store correct answers in an [array/](https://www.w3schools.com/js/js_arrays.asp)[object](https://www.w3schools.com/js/js_objects.asp).  
+- Store the answers in an [array/](https://www.w3schools.com/js/js_arrays.asp)[object](https://www.w3schools.com/js/js_objects.asp).  
 - Add [event](https://www.w3schools.com/js/js_events.asp) handling: when the user clicks **“Submit”**, JS checks the answers.  
 - Use [if/else or switch](https://www.w3schools.com/js/js_conditionals.asp) statements to calculate a score or personality outcome.  
 - Display results in the [results area](https://www.w3schools.com/jsref//prop_html_innerhtml.asp).  
