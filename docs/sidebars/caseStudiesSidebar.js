@@ -2,10 +2,13 @@ export const   caseStudiesSidebar = [
     {
       type: 'category',
       label: 'Case Studies',
+      link: {
+        type: 'generated-index',
+      },
       items: [
         {
           type: 'category',
-          label: 'Session 1',
+          label: 'Session 1 | Helpful Feedback',
           items: [
             'CaseStudies/Session1/study01',
             'CaseStudies/Session1/debrief01',
@@ -13,7 +16,7 @@ export const   caseStudiesSidebar = [
         },
         {
           type: 'category',
-          label: 'Session 2',
+          label: 'Session 2 | My_PrintF',
           items: [
             'CaseStudies/Session2/study02',
             'CaseStudies/Session2/debrief02',
@@ -21,7 +24,7 @@ export const   caseStudiesSidebar = [
         },
         {
           type: 'category',
-          label: 'Session 3',
+          label: 'Session 3 | Chat Control',
           items: [
             'CaseStudies/Session3/study03',
             'CaseStudies/Session3/debrief03',
@@ -29,7 +32,7 @@ export const   caseStudiesSidebar = [
         },
         {
           type: 'category',
-          label: 'Session 4',
+          label: 'Session 4 | The Interview Assistant',
           items: [
             'CaseStudies/Session4/study04',
             'CaseStudies/Session4/debrief04',
@@ -37,7 +40,7 @@ export const   caseStudiesSidebar = [
         },
         {
           type: 'category',
-          label: 'Session 5',
+          label: 'Session 5 | Improved Add Experience',
           items: [
             'CaseStudies/Session5/study05',
             'CaseStudies/Session5/debrief05',
@@ -45,10 +48,9 @@ export const   caseStudiesSidebar = [
         },
         {
           type: 'category',
-          label: 'Session 6',
+          label: 'Session 6 | ShopBot',
           items: [
             'CaseStudies/Session6/study06',
-            // 'CaseStudies/Session6/debrief06',
           ],
         },
       ],

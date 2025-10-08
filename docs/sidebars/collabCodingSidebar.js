@@ -9,7 +9,7 @@ export const  collabCodingSidebar = [
       items: [
         {
           type: 'category',
-          label: 'Project 1 "My Team Site"',
+          label: 'Project 1 | My Team Site',
           items: [
             'CollaborativeCoding/Project1/my-team-site',
             'CollaborativeCoding/Project1/session01',
