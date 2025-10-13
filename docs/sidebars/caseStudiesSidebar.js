@@ -53,6 +53,13 @@ export const   caseStudiesSidebar = [
             'CaseStudies/Session6/study06',
           ],
         },
+        {
+          type: 'category',
+          label: 'Session 7 | Vigo',
+          items: [
+            'CaseStudies/Session7/study07',
+          ],
+        },
       ],
     }
   ]
