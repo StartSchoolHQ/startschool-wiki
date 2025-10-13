@@ -26,6 +26,15 @@ export const  collabCodingSidebar = [
             'CollaborativeCoding/Project2/session05',
           ],
         },
+        {
+          type: 'category',
+          label: 'Project 3 | Programming tasks',
+          items: [
+            'CollaborativeCoding/Project3/session07',
+            // 'CollaborativeCoding/Project2/session04',
+            // 'CollaborativeCoding/Project2/session05',
+          ],
+        },
       ],
     },
   ]
