@@ -61,36 +61,14 @@ const config = {
       navbar: {
         title: 'StartSchool Tech module',
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'liveCodingSidebar',
-            position: 'left',
-            label: 'Live Coding',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'collabCodingSidebar',
-            position: 'left',
-            label: 'Collaborative Coding',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'caseStudiesSidebar',
-            position: 'left',
-            label: 'Case Studies',
-          },
+       
           {
             type: 'docSidebar',
             sidebarId: 'documentationSidebar',
             position: 'left',
             label: 'Documentation',
           },
-          {
-            type: 'docSidebar',
-            sidebarId: 'generalInformationSidebar',
-            position: 'left',
-            label: 'General information',
-          },
+    
         ],
       },
       footer: {
