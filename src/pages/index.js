@@ -18,18 +18,23 @@ function HomepageHeader() {
 
 const sections = [
   {
+    title: 'General information',
+    description: 'Find essential program details including which Program Manager to contact, performance review criteria, attendance policies, and important dates.',
+    link: '/docs/category/general-information',
+  },
+  {
     title: 'Live coding',
-    description: 'Access recordings from past Live coding sessions and see what is planned for the future',
+    description: 'Access recordings from past Live coding sessions, review key concepts covered, and see upcoming topics planned for future sessions.',
     link: '/docs/LiveCoding/recordings',
   },
   {
     title: 'Collaborative coding',
-    description: 'Improve your collaboration and coding skills by working together',
+    description: 'Practice pair programming and team coding exercises. Work with peers to solve real-world problems and improve both your technical and collaboration skills.',
     link: '/docs/category/collaborative-coding',
   },
   {
     title: 'Case studies',
-    description: 'Case studies and debriefs',
+    description: 'Explore real-world project case studies with detailed debriefs. Learn from practical examples and understand how concepts apply in actual development scenarios.',
     link: '/docs/category/case-studies',
   },
 ];
