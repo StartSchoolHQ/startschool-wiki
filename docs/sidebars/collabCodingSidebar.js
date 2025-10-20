@@ -26,15 +26,15 @@ export const  collabCodingSidebar = [
             'CollaborativeCoding/Project2/session05',
           ],
         },
-        // {
-        //   type: 'category',
-        //   label: 'Project 3 | Programming tasks',
-        //   items: [
-        //     'CollaborativeCoding/Project3/session07',
-        //     'CollaborativeCoding/Project2/session08',
-        //     'CollaborativeCoding/Project2/session09',
-        //   ],
-        // },
+        {
+          type: 'category',
+          label: 'Project 3 | Programming tasks',
+          items: [
+            'CollaborativeCoding/Project3/session07',
+            'CollaborativeCoding/Project3/session08',
+            'CollaborativeCoding/Project3/session09',
+          ],
+        },
       ],
     },
   ]
