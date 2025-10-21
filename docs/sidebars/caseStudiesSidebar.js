@@ -60,6 +60,14 @@ export const   caseStudiesSidebar = [
             'CaseStudies/Session7/study07',
           ],
         },
+        {
+          type: 'category',
+          label: 'Session 8 | Salary Negotiation',
+          items: [
+            'CaseStudies/Session8/study08',
+            // 'CaseStudies/Session8/debrief08',
+          ],
+        },
       ],
     }
   ]
