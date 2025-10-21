@@ -40,14 +40,14 @@ You can implement this in **any language**.
 
 ---
 
-## Constraints
+<!-- ## Constraints
 
 - `2 <= nums.length <= 10^4`
 - `-10^9 <= nums[i] <= 10^9`
 - `-10^9 <= target <= 10^9`
 - Only one valid answer exists
 
----
+--- -->
 
 ## Function prototype
 
@@ -78,12 +78,6 @@ Try using a nested loop to check every pair of numbers.
 
 </details>
 
-<details>
-<summary>Click to reveal hint 2</summary>
-
-Can you use a hash map (object in JavaScript) to store numbers you've already seen?
-
-</details>
 
 <details>
 <summary>Click to reveal hint 3</summary>
