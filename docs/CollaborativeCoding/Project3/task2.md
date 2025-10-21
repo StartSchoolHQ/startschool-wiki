@@ -80,7 +80,7 @@ Try using a nested loop to check every pair of numbers.
 
 
 <details>
-<summary>Click to reveal hint 3</summary>
+<summary>Click to reveal hint 2</summary>
 
 For each number, calculate what number you need to reach the target, then check if you've seen it before.
 
