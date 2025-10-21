@@ -23,9 +23,9 @@ const sections = [
     link: '/docs/category/general-information',
   },
   {
-    title: 'Live coding',
-    description: 'Access recordings from past Live coding sessions, review key concepts covered, and see upcoming topics planned for future sessions.',
-    link: '/docs/LiveCoding/recordings',
+    title: 'Case studies',
+    description: 'Explore real-world project case studies with detailed debriefs. Learn from practical examples and understand how concepts apply in actual development scenarios.',
+    link: '/docs/category/case-studies',
   },
   {
     title: 'Collaborative coding',
@@ -33,9 +33,9 @@ const sections = [
     link: '/docs/category/collaborative-coding',
   },
   {
-    title: 'Case studies',
-    description: 'Explore real-world project case studies with detailed debriefs. Learn from practical examples and understand how concepts apply in actual development scenarios.',
-    link: '/docs/category/case-studies',
+    title: 'Live coding',
+    description: 'Access recordings from past Live coding sessions, review key concepts covered, and see upcoming topics planned for future sessions.',
+    link: '/docs/LiveCoding/recordings',
   },
 ];
 
