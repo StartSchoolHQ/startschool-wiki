@@ -99,6 +99,7 @@ export const documentationSidebar = [
             label: 'Data Science', 
             items: [
               'Season 02/Data Science/ds_quest04',
+              'Season 02/Data Science/my_tu_verras',
             ]
           },
           {
