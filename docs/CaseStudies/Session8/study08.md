@@ -57,36 +57,10 @@ Anna needs to decide: Should she negotiate for a higher base salary? What is she
 
 Imagine that you're in her position.
 
-### Questions to consider:
-
-1. **How can you compare the two positions?**
-   - What factors beyond base salary matter?
-   - How do you calculate total compensation?
-   - What non-financial benefits are important?
-
-2. **What's the value of a title change from mid to senior developer?**
-   - How does this impact future career opportunities?
-   - What does this mean for resume and job market value?
-
-3. **What is the worst that could happen if Anna negotiates? What is the best outcome?**
-   - Risk vs. reward analysis
-   - How to prepare for different scenarios
-
-4. **What can be negotiated in this situation?**
-   - Which parts of the offer are flexible?
-   - What are realistic asks?
-   - What priorities should Anna focus on?
-
----
-
-## Discussion points
-
-- Total compensation comparison
-- Work-life balance value
-- Career growth opportunities
-- Financial needs vs. wants
-- Negotiation strategies
-- Risk assessment
+- How can you compare the two positions?
+- What’s the value of a title change from mid to senior developer?
+- What is the worst that could happen if Anna negotiates? What is the best outcome?
+- What can be negotiated in this situation?
 
 ---
 
