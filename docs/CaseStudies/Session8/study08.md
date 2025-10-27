@@ -1,5 +1,5 @@
 ---
-title: "Salary Negotiation"
+title: "Case | Salary Negotiation"
 description: "case study 08"
 id: study08
 ---

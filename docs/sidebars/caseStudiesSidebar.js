@@ -65,7 +65,15 @@ export const   caseStudiesSidebar = [
           label: 'Session 8 | Salary Negotiation',
           items: [
             'CaseStudies/Session8/study08',
-            // 'CaseStudies/Session8/debrief08',
+            'CaseStudies/Session8/debrief08',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Session 9 | The competing solutions',
+          items: [
+            'CaseStudies/Session9/study09',
+            // 'CaseStudies/Session9/debrief09',
           ],
         },
       ],
