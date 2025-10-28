@@ -4,45 +4,34 @@ description: "case study 09"
 id: study09
 ---
 
+# The Competing Solutions
 
-# The competing solutions
+## Scenario
 
-### Scenario
+Two teams are working on different solutions targeting university students
 
-During StartSchool's business module, students develop startup ideas and present them to the cohort. Two teams are working on different solutions targeting university students:
+"StudyBuddy" – a platform where university students find study groups
 
-**"StudyBuddy"** – a platform where university students find study groups
+"CampusEats" – food delivery app for university students 
 
-**"CampusEats"** – food delivery app for university students
+Both teams are targeting university students
 
-Both teams are targeting university students.
+During lunch with Jen from "CampusEats", Marcus from "StudyBuddy" mentions: 
 
-During lunch with several other students, including Jen from "CampusEats", Marcus from "StudyBuddy" mentions: "We've been getting great feedback! Reached out to Sarah Chen on LinkedIn - she built a successful student housing app - and she connected us to Dr. Rodriguez who works at SSE. We're interviewing their students next week."
+> "We've been getting great feedback! Reached out to Sarah Chen on LinkedIn - she built a successful student housing app - and she connected us to Dr. Rodriguez who works at SSE. We're interviewing their students next week."
 
-Fast forward to the hackathon, during "StudyBuddy's" presentation, they mention insights from their mentor Sarah Chen and student interviews. "CampusEats" presents right after. They also mention conversations with Sarah Chen and share insights from interviews with students from the same university.
+Fast forward to the hackathon. During their presentation, "StudyBuddy" mention insights from their mentor Sarah Chen and student interviews. "CampusEats" presents right after. They also mention Sarah Chen and talk about interviews they conducted with students from the same university.
 
-After the presentations, Marcus tells his teammates: "Did you hear? They just took our network!"
+Marcus and his "StudyBuddy" teammates were left with an unpleasant aftertaste. Later on, they refrained from sharing their findings with peers from other teams. Jen's teammates from "CampusEats" feel awkward. No one says anything
 
-When asked about it, "CampusEats" says they reached out to those mentors after hearing they were helpful resources, and that they did their own independent research and interviews. "StudyBuddy" feels that "CampusEats" benefited from their earlier work.
+## Discussion Questions
 
-Both teams want to continue developing their ideas, but they're concerned about competing for the same resources, mentors, and potential customers within the StartSchool ecosystem.
-
----
-
-## Discussion questions
-
-1. If you were on either of the teams, how would you feel about this situation?
-
-2. What would you do if you suspected another team was using your research or insights?
-
+1. How would you feel if you were in either of the teams?
+2. How can the teams move forward in a way that is best for them, the mentor, and the StartSchool community as a whole?
 3. How does this situation relate to StartSchool's code of conduct?
 
-4. How can the teams move forward while maintaining good relationships?
+## Bonus Question
 
----
-
-## Bonus question
-
-Imagine mentioning a startup idea to several peers. You later find out that one of the people present in the conversation became a team leader and recruited a team to work on that idea.
+A different scenario. You find out that someone took your idea from the __idea presentation__ and formed a team around it without you.
 
 1. How would you feel and act in that situation?
