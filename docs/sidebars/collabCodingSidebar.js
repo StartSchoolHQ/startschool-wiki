@@ -38,6 +38,14 @@ export const  collabCodingSidebar = [
             'CollaborativeCoding/Project3/session12',
           ],
         },
+        {
+          type: 'category',
+          label: 'Project 4 | Your own project',
+          items: [
+            'CollaborativeCoding/Project4/task1',
+            'CollaborativeCoding/Project4/task2',
+          ],
+        },
       ],
     },
   ]
