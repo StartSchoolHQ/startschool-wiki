@@ -5,8 +5,9 @@ id: task2
 ---
 
 
-
-Build a fully functional integration with an external API and handle real-world scenarios including errors, loading states, and data transformation - if applicable.
+Build a fully functional integration with an external API and handle real-world scenarios including errors, loading states, and data transformation - if applicable.   
+ 
+**Focus on technical implementation. Visual design will be addressed in a future session.**
 
 ## Required deliverables
 

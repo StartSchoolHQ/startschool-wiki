@@ -59,7 +59,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'StartSchool Tech module',
+        title: 'Tech module',
+        logo: {
+          alt: 'Cross team collaboration',
+          src: 'img/StartSchool_Logo_pink.png'
+        },
         items: [
        
           {
