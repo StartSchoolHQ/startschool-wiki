@@ -7,8 +7,8 @@ export const generalInformationSidebar = [
       },
       items: [
         'GeneralInformation/generalinformation',
-        'GeneralInformation/performance-assessment'
-
+        'GeneralInformation/performance-assessment',
+        'GeneralInformation/timeline',
       ],
     },
   ];

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 title: "Tech Module Progress and Performance Review"
 description: "Understanding your progress and evaluation criteria"
 id: "performance-assessment"
