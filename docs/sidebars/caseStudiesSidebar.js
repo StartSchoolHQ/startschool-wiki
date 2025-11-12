@@ -81,7 +81,14 @@ export const   caseStudiesSidebar = [
           label: 'Session 10 | When tech meets business',
           items: [
             'CaseStudies/Session10/study10',
-            // 'CaseStudies/Session10/debrief10',
+            'CaseStudies/Session10/debrief10',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Session 11 | Product analysis assignment',
+          items: [
+            'CaseStudies/Session11/study11',
           ],
         },
       ],
