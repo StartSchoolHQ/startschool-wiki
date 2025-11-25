@@ -27,7 +27,7 @@ Your goal is to build a realistic, professional-looking demo site that demonstra
 
 2. **Export from WordPress**: Go to Dashboard → Tools → Export and click Export All Content to download your site’s XML file.
 3. **Git**: Run `git add`, `git commit`, and `git push`.
-4. **Verify visibility**: Gandalf cannot read your website unless it's launched and [site privacy](https://wordpress.com/support/privacy-settings/) is set to **Public**.
+4. **Verify visibility**: Gandalf cannot read your website unless [site privacy](https://wordpress.com/support/privacy-settings/) is set to **Public**.
 5. **Gandalf Testing**: Remember to run Gandalf tests and carefully read error messages if any appear.
 
 
