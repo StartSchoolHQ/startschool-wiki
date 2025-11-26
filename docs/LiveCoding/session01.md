@@ -20,7 +20,8 @@ id: "recordings"
 | 7 |  Approaching problems | Oskars Petriks 'Gravity'| [Watch Recording](https://drive.google.com/file/d/1BfBCNhxlHGr20gkn1MZvnFErW5eq2aAC/view?usp=drive_link) | [Task](https://drive.google.com/file/d/1I1DK-ztF-nJFRyhj91K2AQ2CQh0sRfBE/view?usp=drive_link) |
 | 8 |  Short intro to APIs | Program Manager| [Watch Recording](https://drive.google.com/file/d/15hqqg9a32zRuYxhanmF7BM8ybhpBP33i/view?usp=drive_link) |  |
 | 9 |  Github branching + Lovable | Inga Kononova| [Watch Recording](https://drive.google.com/file/d/1BfBCNhxlHGr20gkn1MZvnFErW5eq2aAC/view?usp=drive_link) | [Presentation](https://docs.google.com/presentation/d/1doeVHLKh3ktLd1878jl_QlFgjhATzzwBnOdCNVLibU4/edit?slide=id.g36ffb330b71_2_93#slide=id.g36ffb330b71_2_93) |
-| 10 |  24.11. Happy hour with Erik | Erik Babra| TBA | |
+| 10 |  Happy hour about N8N Automations  | Erik Babra| [Watch Recording](https://drive.google.com/file/d/1dViYEPxFK8Fif47Vt3RjpEFP6nEP5Nvo/view?usp=drive_link) |  |
+| 11 |  01.12. Modelling | Gints Turlajs| TBA | |
 
 
 ---
