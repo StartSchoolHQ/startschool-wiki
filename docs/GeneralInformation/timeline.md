@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 title: "Tech module timeline"
 description: "Follow this timeline as close as possible to get the most out of your learning process"
 id: "timeline"

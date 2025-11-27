@@ -6,9 +6,12 @@ export const generalInformationSidebar = [
         type: 'generated-index',
       },
       items: [
+        
         'GeneralInformation/generalinformation',
-        'GeneralInformation/performance-assessment',
+        'GeneralInformation/pmresp',
+        'GeneralInformation/absences',
         'GeneralInformation/timeline',
+        'GeneralInformation/performance-assessment',
       ],
     },
   ];

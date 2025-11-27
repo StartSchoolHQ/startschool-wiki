@@ -1,6 +1,6 @@
 ---
-sidebar_position: 3
-title: "Tech Module Progress and Performance Review"
+sidebar_position: 5
+title: "Tech Module progress and performance review"
 description: "Understanding your progress and evaluation criteria"
 id: "performance-assessment"
 ---
@@ -29,7 +29,7 @@ Your progress is evaluated based on three main factors:
 
 ### 1. Tech module timeline and individual progress
 
-**Following the [timeline](https://drive.google.com/file/d/1r9_QQkP7pd4Xv5lOkPxzlIvH_4Crf4Qw/view?usp=drive_link)**.
+**Following the [timeline](https://startschoolhq.github.io/startschool-wiki/docs/GeneralInformation/timeline)**.
 
 The Tech Module timeline is designed based on our program experience. We encourage you to follow it as closely as possible to get the most out of the learning experience.
 
