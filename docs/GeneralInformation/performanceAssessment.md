@@ -65,8 +65,8 @@ We look at your engagement, effort, and participation throughout the program
 ## Next steps
 
 **Individual check-ins**
-- Austra Marta will send emails to students who need individual check-ins on **October 30**.
-- Check-ins will be scheduled in the **first week of November** according to each student's availability.
+- Program manager responsible for progress will send emails to students who need individual check-ins **every two months** from the program beginning.
+- Check-ins will be scheduled in the **first week of each third month** according to each student's availability.
 
 **What to expect:**
 - A personalized conversation about your progress
