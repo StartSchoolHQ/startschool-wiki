@@ -114,7 +114,7 @@ export const documentationSidebar = [
               // 'Season 02/Fullstack/MySqlite',
               // 'Season 02/Fullstack/MyUsersApp',
               // 'Season 02/Fullstack/SelectQuery',
-              // 'Season 02/Fullstack/Wordpress',
+              'Season 02/Fullstack/Wordpress',
             ],
         },
       ],
