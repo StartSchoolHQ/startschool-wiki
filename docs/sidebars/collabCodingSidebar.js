@@ -44,6 +44,7 @@ export const  collabCodingSidebar = [
           items: [
             'CollaborativeCoding/Project4/task1',
             'CollaborativeCoding/Project4/task2',
+            'CollaborativeCoding/Project4/task3',
           ],
         },
       ],

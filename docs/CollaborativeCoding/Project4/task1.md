@@ -1,10 +1,7 @@
 ---
-title: "Part 1 | Concept"
+title: "Part 1 | Project planning & setup"
 description: "Collaborative coding and project planning"
 id: task1
----
-
-# Session 1: Project planning & setup
 ---
 
 ## Session Goals
