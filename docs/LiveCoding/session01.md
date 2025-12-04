@@ -21,7 +21,7 @@ id: "recordings"
 | 8 |  Short intro to APIs | Program Manager| [Watch Recording](https://drive.google.com/file/d/15hqqg9a32zRuYxhanmF7BM8ybhpBP33i/view?usp=drive_link) |  |
 | 9 |  Github branching + Lovable | Inga Kononova| [Watch Recording](https://drive.google.com/file/d/1BfBCNhxlHGr20gkn1MZvnFErW5eq2aAC/view?usp=drive_link) | [Presentation](https://docs.google.com/presentation/d/1doeVHLKh3ktLd1878jl_QlFgjhATzzwBnOdCNVLibU4/edit?slide=id.g36ffb330b71_2_93#slide=id.g36ffb330b71_2_93) |
 | 10 |  Happy hour about N8N Automations  | Erik Babra| [Watch Recording](https://drive.google.com/file/d/1dViYEPxFK8Fif47Vt3RjpEFP6nEP5Nvo/view?usp=drive_link) |  |
-| 11 |  01.12. Modelling | Gints Turlajs| TBA | |
+| 11 |  Software engineering modeling and classes | Gints Turlajs| [Watch Recording](https://drive.google.com/file/d/1Le-SbwDLHMn-OgmRtkK4uUuyqMPSJQ7W/view?usp=sharing) | [Presentation](https://docs.google.com/presentation/d/1obabL72wPUYJYELnwZ3tcjqF6TlqM3KC/edit?usp=sharing&ouid=109305695909238745127&rtpof=true&sd=true)|
 
 
 ---
