@@ -68,6 +68,12 @@ const config = {
        
           {
             type: 'docSidebar',
+            sidebarId: 'startupModuleSidebar',
+            position: 'left',
+            label: 'Startup Module',
+          },
+           {
+            type: 'docSidebar',
             sidebarId: 'documentationSidebar',
             position: 'left',
             label: 'Documentation',
