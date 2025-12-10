@@ -8,6 +8,7 @@ export const generalInformationSidebar = [
       items: [
         
         'GeneralInformation/generalinformation',
+        'GeneralInformation/competition',
         'GeneralInformation/pmresp',
         'GeneralInformation/absences',
         'GeneralInformation/timeline',

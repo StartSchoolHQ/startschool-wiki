@@ -99,6 +99,14 @@ export const   caseStudiesSidebar = [
             // 'CaseStudies/Session12/debrief12',
           ],
         },
+        {
+          type: 'category',
+          label: 'Session 13 | We Love Retro',
+          items: [
+            'CaseStudies/Session13/study13',
+            // 'CaseStudies/Session12/debrief12',
+          ],
+        },
       ],
     }
   ]

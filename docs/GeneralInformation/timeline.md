@@ -19,6 +19,10 @@ id: "timeline"
 | **Hackathon** | Jan 5 - 9 | Week 18 |Ready, set, hack! - intensive project sprint|
 | **Season 02 Fullstack** | Jan 12 - Feb 27  | Weeks 19-25 | Databases, Ruby, fullstack development |
 | **Season 03 + Startup** | March 2 - ... | Weeks 26+ | Advanced topics simultaneously with Startup module |
+
+**[Recommended order of tasks to work on](https://drive.google.com/file/d/1r9_QQkP7pd4Xv5lOkPxzlIvH_4Crf4Qw/view?usp=drive_link)**
+
+
 <!-- 
 
 ## Program phases summary machine learning
