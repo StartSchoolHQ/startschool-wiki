@@ -59,18 +59,36 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Tech module',
+        // title: 'StartSchool Modules',
         logo: {
-          alt: 'Cross team collaboration',
+          alt: 'StartSchool logo',
           src: 'img/StartSchool_Logo_pink.png'
         },
         items: [
-       
           {
+            type: 'docSidebar',
+            sidebarId: 'generalInformationSidebar',
+            position: 'left',
+            label: 'General Information',
+          },
+          {
+            to: '/tech',
+            label: 'Tech Module',
+            position: 'left',
+          },
+         
+          {
+            type: 'docSidebar',
+            sidebarId: 'startupModuleSidebar',
+            // to: ' /docs/category/startup-module',
+            position: 'left',
+            label: 'Startup Module',
+          },
+           {
             type: 'docSidebar',
             sidebarId: 'documentationSidebar',
             position: 'left',
-            label: 'Documentation',
+            label: 'Qwasar Task Documentation',
           },
     
         ],

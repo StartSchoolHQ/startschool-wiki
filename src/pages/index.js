@@ -4,42 +4,35 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import styles from './index.module.css';
 
-function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
-  return (
-    <header className={styles.heroBanner}>
-      <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-      </div>
-    </header>
-  );
-}
-
+// Homepage sections
 const sections = [
   {
-    title: 'General information',
-    description: 'Find essential program details including which Program Manager to contact, performance review criteria, attendance policies, and important dates.',
+    title: 'General Information',
+    description:
+      'Essential program details including which Program Manager to contact, performance review criteria, attendance policies, and important dates.',
     link: '/docs/category/general-information',
   },
   {
-    title: 'Case studies',
-    description: 'Explore real-world project case studies with detailed debriefs. Learn from practical examples and understand how concepts apply in actual development scenarios.',
-    link: '/docs/category/case-studies',
+    title: 'Startup Module',
+    description:
+      'Intro, fundamentals and project-building steps.',
+    link: '/docs/category/startup-module',
   },
   {
-    title: 'Collaborative coding',
-    description: 'Practice pair programming and team coding exercises. Work with peers to solve real-world problems and improve both your technical and collaboration skills.',
-    link: '/docs/category/collaborative-coding',
+    title: 'Tech Module',
+    description:
+      'Programming, live coding, documentation & more.',
+    link: '/tech',
   },
   {
-    title: 'Live coding',
-    description: 'Access recordings from past Live coding sessions, review key concepts covered, and see upcoming topics planned for future sessions.',
-    link: '/docs/LiveCoding/recordings',
+    title: 'Qwasar Task Documentation',
+    description:
+      'Tips & tricks from previous students on tasks that required a bit of extra attention.',
+    link: '/docs/category/onboarding',
   },
 ];
 
-function SectionCard({title, description, link}) {
+function SectionCard({ title, description, link }) {
   return (
     <div className={styles.card}>
       <Link to={link} className={styles.cardLink}>
@@ -51,16 +44,19 @@ function SectionCard({title, description, link}) {
 }
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
+
   return (
     <Layout
-      title={`Welcome to ${siteConfig.title}`}
-      description="Cross Team Collaboration">
+      title="StartSchool Modules"
+      description="Choose module"
+    >
       <main>
-        <div className="container" style={{marginTop: '4rem', marginBottom: '4rem'}}>
+        <div className="container" style={{ marginTop: '4rem', marginBottom: '4rem' }}>
+          {/* Card Grid */}
           <div className={styles.cardGrid}>
-            {sections.map((props, idx) => (
-              <SectionCard key={idx} {...props} />
+            {sections.map((section, idx) => (
+              <SectionCard key={idx} {...section} />
             ))}
           </div>
         </div>
@@ -68,6 +64,3 @@ export default function Home() {
     </Layout>
   );
 }
-
-
-
