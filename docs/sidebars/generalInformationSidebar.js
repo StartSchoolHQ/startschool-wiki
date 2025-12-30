@@ -13,6 +13,8 @@ export const generalInformationSidebar = [
         'GeneralInformation/absences',
         'GeneralInformation/timeline',
         'GeneralInformation/performance-assessment',
+        'GeneralInformation/s3minreq',
+        
       ],
     },
   ];
