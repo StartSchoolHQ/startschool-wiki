@@ -48,30 +48,31 @@ While projects differ in nature, all minimum requirements are balanced to repres
 | Specialization | Track description | Minimum required projects | Estimated hours | Project description |
 | --- | --- | --- | --- | --- |
 | **Machine Learning** | Advanced ML track assuming prior experience in programming, statistics, and machine learning | Drive Me Crazy | 30–35 | End-to-end machine learning project: data integration, preprocessing, baseline model, transformer-based model from a research paper, evaluation, comparison, and dashboard |
-|  |  | A Fool Fraud | 10–15 | Applied ML on imbalanced data: fraud detection, data augmentation techniques, multiple models, evaluation and ethical considerations |
+|  |  | A Fool Fraud *(scoped)* | 10–15 | Applied ML on imbalanced data: fraud detection, data augmentation techniques, multiple models, evaluation, and ethical considerations |
 |  |  | **Machine Learning — Total** | **~40–50 hrs** |  |
 |  |  |  |  |  |
 | **Data Science** | Advanced data science track focused on analytical depth, modeling variety, and research-oriented reasoning | A Fool Fraud | 20–25 | Data exploration, feature analysis, modeling, evaluation, bias, and ethics considerations in fraud detection |
-|  |  | Coleridge Initiative | 20–25 | NLP and deep learning: text preprocessing, sequence models (BiLSTM, GRU, CNN), NER, comparative evaluation and research-style analysis |
+|  |  | Coleridge Initiative | 20–25 | NLP and deep learning: text preprocessing, sequence models (BiLSTM, GRU, CNN), NER, comparative evaluation, and research-style analysis |
 |  |  | **Data Science — Total** | **~40–50 hrs** |  |
 |  |  |  |  |  |
-| **AI Application Developer** | Advanced application-focused AI track emphasizing system design, model selection, and explainability | Glyphs of Logic | 15–18 | Prompt engineering as system design: building reusable prompt libraries, applying frameworks, iterating, and evaluating LLM outputs |
+| **AI Application Developer** | Advanced application-focused AI track emphasizing system design, model selection, and explainability | Glyphs of Logic | 15–18 | Prompt engineering as system design: reusable prompt libraries, frameworks, iteration, and evaluation |
 |  |  | Runes of Prediction | 12–15 | Survey and comparison of generative models across modalities; architecture trade-offs; system-level diagrams for real-world use cases |
-|  |  | Wand of Truth | 10–12 | Clear explanation of LLM internals (tokenization, embeddings, attention, output generation) using diagrams and accessible technical writing |
+|  |  | Wand of Truth | 10–12 | Explanation of LLM internals (tokenization, embeddings, attention, output generation) using diagrams and accessible technical writing |
 |  |  | **AI Application Developer — Total** | **~37–45 hrs** |  |
 |  |  |  |  |  |
-| **Agentic AI** | Advanced agentic systems track focused on design, orchestration, security, and real-world AI agent workflows | Smart Home Thermostat | 8–10 | Design and visualize an AI agent: inputs, outputs, logic flow, components, tools, and orchestration for a smart home system |
-|  |  | Travel Agent | 12–15 | Build a functional AI agent that converses with users, selects logic and language models, integrates tools/APIs, and simulates flight booking |
-|  |  | Orchestrating Travel | 8–10 | Design an orchestration layer showing how logic models, LLMs, and tools interact within an agentic system |
-|  |  | Your ID Please | 8–10 | Evaluate and integrate credential management / IAM tools to securely manage agent access and authentication |
+| **Agentic AI** | Advanced agentic systems track focused on design, orchestration, security, and real-world AI agent workflows | Smart Home Thermostat | 8–10 | Design and visualize an AI agent: inputs, outputs, logic flow, components, tools, and orchestration |
+|  |  | Travel Agent | 12–15 | Build a functional AI agent that integrates models, tools, APIs, and conversational logic |
+|  |  | Orchestrating Travel | 8–10 | Design an orchestration layer showing how logic models, LLMs, and tools interact |
+|  |  | Your ID Please | 8–10 | Integrate credential management and IAM tools for secure agent authentication |
 |  |  | **Agentic AI — Total** | **~36–45 hrs** |  |
+
 
 ---
 
 ## Notes
 
 - Minimum requirements represent the **baseline expected completion** for Season 03.
-- Advanced, capstone, or infrastructure-heavy projects are intentionally **excluded from the minimum**.
+- Advanced, or infrastructure-heavy projects are intentionally **excluded from the minimum**.
 - All tracks are designed to be **different in focus, not different in workload**.
 - Completing additional projects beyond the minimum is encouraged and strengthens a student’s portfolio.
 
