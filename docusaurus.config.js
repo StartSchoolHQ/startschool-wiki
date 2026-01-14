@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'StartSchool Tech Module guide',
-  favicon: 'img/StartSchool_round_pink.png',
+  favicon: 'img/Start-School-logo-PFP.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
