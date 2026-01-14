@@ -107,6 +107,14 @@ export const   caseStudiesSidebar = [
             // 'CaseStudies/Session12/debrief12',
           ],
         },
+        {
+          type: 'category',
+          label: 'Session 14 | Pitch perfect - round #2',
+          items: [
+            'CaseStudies/Session14/study14',
+            // 'CaseStudies/Session12/debrief12',
+          ],
+        },
       ],
     }
   ]

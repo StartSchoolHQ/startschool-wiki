@@ -47,9 +47,9 @@ While projects differ in nature, all minimum requirements are balanced to repres
 
 | Specialization | Track description | Minimum required projects | Estimated hours | Project description |
 | --- | --- | --- | --- | --- |
-| **Machine Learning** | Advanced ML track assuming prior experience in programming, statistics, and machine learning | Drive Me Crazy | 30–35 | End-to-end machine learning project: data integration, preprocessing, baseline model, transformer-based model from a research paper, evaluation, comparison, and dashboard |
-|  |  | A Fool Fraud *(scoped)* | 10–15 | Applied ML on imbalanced data: fraud detection, data augmentation techniques, multiple models, evaluation, and ethical considerations |
-|  |  | **Machine Learning — Total** | **~40–50 hrs** |  |
+| **Machine Learning** | Advanced ML track assuming prior experience in programming, statistics, and machine learning | Visa For Lisa | 22–28 | End-to-end supervised ML project on real banking data: data cleaning, EDA, feature engineering, baseline regression, classification models, evaluation, business risk and ethics analysis |
+|  |  | Classically Punk | 18–25 | Music genre classification using audio data: feature extraction from media files, large-scale data handling, ML classification, evaluation, and production-ready implementation |
+|  |  | **Machine Learning — Total** | **~40–50 hrs** | Covers full ML lifecycle across business and signal-based datasets |
 |  |  |  |  |  |
 | **Data Science** | Advanced data science track focused on analytical depth, modeling variety, and research-oriented reasoning | A Fool Fraud | 20–25 | Data exploration, feature analysis, modeling, evaluation, bias, and ethics considerations in fraud detection |
 |  |  | Coleridge Initiative | 20–25 | NLP and deep learning: text preprocessing, sequence models (BiLSTM, GRU, CNN), NER, comparative evaluation, and research-style analysis |
