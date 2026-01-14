@@ -25,6 +25,9 @@ id: "recordings"
 | 12 | Vibe Coding | Igors Uhaņs| [Recording](https://drive.google.com/file/d/1YKTreADuwDD4in0pw30YqZ1ppNeT3IA2/view?usp=drive_link) |  |
 | 13 | The No-BS Guide to Practical UI/UX Design: From an Idea to an MVP | Mikus Albert| [Presentation](https://www.figma.com/slides/ICgLXvs5zTmXVMpuquos2G/Product-Design-101?node-id=1-42&t=lnu2s2OoqS9aVtY5-0) | [Guide to typography](https://www.youtube.com/watch?v=xnqdvs4zp2o&t=2596s)<br/>[Visual hierarchy explained](https://www.youtube.com/watch?v=crGNE8cKQ9o)<br/>[Auto-layouts in figma ](https://www.youtube.com/watch?v=fDemGEmKy0c)<br/>[Components](https://www.youtube.com/watch?v=5El6GygKRhU)<br/>[Atoms, components and patterns](https://www.youtube.com/watch?v=0MvLkM7r_lM&t=741s)<br/>[Tokens](https://www.youtube.com/watch?v=k-3aaftngXs&t=1s)|
 | 14 | VS Code shortcuts and intro to developer tools | Program Manager | [Recording](https://drive.google.com/file/d/1n_bpyQjqIVltQwSN8JFJF8ruAI3nvSbZ/view?usp=sharing) | [Presentation](https://www.figma.com/proto/WinDfJQk3dfzDEVjMiTIk4/shortcuts-and-devtools?node-id=1-2&p=f&t=czK2Lnv8wRxIAD7y-0&scaling=contain&content-scaling=fixed&page-id=0%3A1)<br/>[shortcuts MacOs](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)<br/>[shortcuts Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)<br/>[shortcuts Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)<br/>[Chrome DevTools documentation](https://developer.chrome.com/docs/devtools/overview) |
+| 15 | Vibe Coding | PM Eliass Baranovs| [Recording](https://drive.google.com/file/d/1KiKN46N0bZGGeOxaXgRpFErlMLH-l2el/view?usp=drive_link) |  |
+| 16 | 19.01.26 Vibe Coding | Alumni Jānis Pipars| TBD |  |
+| 17 | 26.01.26 Visual Creation with AI | Markuss Brieze| TBD |  |
 
 
 ---
