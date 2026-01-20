@@ -104,7 +104,7 @@ export const   caseStudiesSidebar = [
           label: 'Session 13 | We Love Retro',
           items: [
             'CaseStudies/Session13/study13',
-            // 'CaseStudies/Session12/debrief12',
+            'CaseStudies/Session12/debrief12',
           ],
         },
         {
@@ -112,7 +112,14 @@ export const   caseStudiesSidebar = [
           label: 'Session 14 | Pitch perfect - round #2',
           items: [
             'CaseStudies/Session14/study14',
-            // 'CaseStudies/Session12/debrief12',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Session 15 | Tea App',
+          items: [
+            'CaseStudies/Session15/study15',
+            // 'CaseStudies/Session15/debrief15',
           ],
         },
       ],

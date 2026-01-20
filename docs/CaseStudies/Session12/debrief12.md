@@ -1,5 +1,5 @@
 ---
-title: Case | Pitch Perfect
+title: Debrief | Pitch Perfect
 description: "debrief 12"
 id: debrief12
 ---
