@@ -12,7 +12,7 @@ id: study15
 
 ## Optional prep
 
-Watch [this video](https://www.youtube.com/watch?v=Pii74I8qwIg) to get an overview of the case
+Watch [this video](https://www.youtube.com/watch?v=Pii74I8qwIg) to get an overview of the case.  
 If you watched the video, you can jump straight to the discussion.
 
 ---
