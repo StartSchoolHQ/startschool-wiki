@@ -122,6 +122,14 @@ export const   caseStudiesSidebar = [
             'CaseStudies/Session15/debrief15',
           ],
         },
+        {
+          type: 'category',
+          label: 'Session 16 | Strava Heatmap',
+          items: [
+            'CaseStudies/Session16/study16',
+            'CaseStudies/Session16/debrief16',
+          ],
+        },
       ],
     }
   ]

@@ -1,5 +1,5 @@
 ---
-title: Debrief | Heatmap
+title: Debrief | Strava Heatmap
 description: "debrief 16"
 id: debrief16
 ---
