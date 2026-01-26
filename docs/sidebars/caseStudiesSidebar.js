@@ -119,7 +119,7 @@ export const   caseStudiesSidebar = [
           label: 'Session 15 | Tea App',
           items: [
             'CaseStudies/Session15/study15',
-            // 'CaseStudies/Session15/debrief15',
+            'CaseStudies/Session15/debrief15',
           ],
         },
       ],

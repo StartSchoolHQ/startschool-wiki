@@ -47,6 +47,13 @@ export const  collabCodingSidebar = [
             'CollaborativeCoding/Project4/task3',
           ],
         },
+        {
+          type: 'category',
+          label: 'Project 5 | Vibesite',
+          items: [
+            'CollaborativeCoding/Project5/task1',
+          ],
+        },
       ],
     },
   ]
