@@ -7,7 +7,7 @@ id: debrief16
 # What Actually Happened
 
 Strava released the heatmap to widespread acclaim
-Downloads of the app spike 40% - everything the marketing team hoped for
+Downloads of the app spike 40% - everything the marketing team hoped for.
 
 Three weeks later, a user tweets a troubling observation: In remote areas of Afghanistan and Syria, the heatmap reveals detailed patterns of activity around unmarked locations—locations that correspond precisely with classified U.S. military bases.
 Within hours, the tweet goes viral. Investigative journalists begin analyzing the heatmap, identifying:

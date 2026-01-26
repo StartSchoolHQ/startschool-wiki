@@ -10,7 +10,7 @@ id: study16
 
 Congratulations! You’re a co-founder of Strava, a social fitness platform with millions of users worldwide
 
-Your marketing team suggests publishing a global activity heatmap that aggregates all routes ever recorded on the app. The data visualization is stunning — it lights up the world's most popular running and cycling routes, from Central Park in New York to mountain trails in the Alps. Internal reviews suggest this could be a massive PR win
+Your marketing team suggests publishing a global activity heatmap that aggregates all routes ever recorded on the app. The data visualization is stunning — it lights up the world's most popular running and cycling routes, from Central Park in New York to mountain trails in the Alps. Internal reviews suggest this could be a massive PR win.
 
 ---
 
