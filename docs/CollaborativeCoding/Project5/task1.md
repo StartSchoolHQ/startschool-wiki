@@ -6,7 +6,7 @@ id: task1
 
 ## Overview
 
-The goal is to build a single high-impact one-page website that feels like a premium brand teaser or campaign drop, inspired by experimental sites such as damngoodbrands.com.
+The goal is to build a single high-impact one-page website that feels like a premium brand teaser or campaign drop, inspired by experimental sites such as [damngoodbrands.com.](https://damngoodbrands.com/)
 
 The project focuses on:
 
