@@ -54,6 +54,13 @@ export const  collabCodingSidebar = [
             'CollaborativeCoding/Project5/task1',
           ],
         },
+        {
+          type: 'category',
+          label: 'Tasks |Programming Fundamentals',
+          items: [
+            'CollaborativeCoding/Simple_tasks/short_tasks',
+          ],
+        },
       ],
     },
   ]
