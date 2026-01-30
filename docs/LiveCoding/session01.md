@@ -28,6 +28,7 @@ id: "recordings"
 | 16 | Vibe Coding - where to start | Alumni Jānis Pipars| [Recording](https://drive.google.com/file/d/1ZopDJ_I9saX8vfGsWMO2y2lK1lggOpYb/view?usp=drive_link) | [Agents.md](https://drive.google.com/file/d/1nGMlJbVTgXtw05i4pi8gG8kiw7JL8Cvb/view?usp=drive_link)<br/> https://openrouter.ai/<br/>https://kilo.ai/<br/>https://artificialanalysis.ai/<br/>https://www.anthropic.com/engineering/building-effective-agents|
 | 17 | Visual Creation with AI | Markuss Brieze| [Recording](https://drive.google.com/file/d/1IYP41VdWzZTb9ZY70WAAvRNphvRJXPmj/view?usp=drive_link) |[Flow AI - video creation](https://labs.google/flow/about)<br/> [Portfolio of Markuss](https://markussbrieze.myportfolio.com/work)<br/>[Arcads AI - For creating ads](https://www.arcads.ai/)<br/>[Eleven Labs - Voice AI](https://elevenlabs.io/)<br/>[LTX - video creation](https://ltx.studio/)<br/>[Kite - demo videos](https://kite.video/)<br/>[Comfy AI - video creation](https://www.comfy.org/)  |
 | 18 | 02.02.26 Technical Product Journey: From Zero to Deployment | Ilze Rosicka| TBD |  |
+| 18 | 09.02.26 Intro to Cloud Engineering and Java at Swisscom | Anfisa Tukane and Davids Bizans | TBD |  |
 
 
 ---
