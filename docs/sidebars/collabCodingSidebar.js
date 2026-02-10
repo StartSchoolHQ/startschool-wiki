@@ -61,6 +61,13 @@ export const  collabCodingSidebar = [
             'CollaborativeCoding/Simple_tasks/short_tasks',
           ],
         },
+        {
+          type: 'category',
+          label: 'Task | Google Sign-In',
+          items: [
+            'CollaborativeCoding/Project6/task1',
+          ],
+        },
       ],
     },
   ]
