@@ -50,9 +50,4 @@ https://developers.google.com/identity/sign-in/web/sign-in
 6. Add sign out
 
 ### Final step
-Apply authentication to **the page they already built**, not a new demo page.
-
-Their original app should now:
-- require login
-- show the user’s info
-- be accessible only when signed in
+Use the last 20-30min of the session to share your experience with the other group members!
