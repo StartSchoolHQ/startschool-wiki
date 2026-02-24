@@ -30,7 +30,7 @@ id: "recordings"
 | 18 | Technical Product Journey: From Zero to Deployment | Ilze Rosicka| [Recording](https://drive.google.com/file/d/1CnuFQpsWhCUXngxiZtk74KX603LbvwW3/view?usp=drive_link) |  |
 | 19 | Intro to Cloud Engineering and Java at Swisscom | Anfisa Tukane and Davids Bizans | [Recording](https://drive.google.com/file/d/1I4O5f96LtSQTnkIhughb9EOxkyoAncId/view?usp=drive_link) |  |
 | 20 | Testing | Edgars Jānis Grigors| [Recording](https://drive.google.com/file/d/1liF3SB33mIHk6Jrw6QO0KEWRSgXWbDad/view?usp=drive_link) |  |
-| 21 | 23.02. Cybersecurity 101 for startups | Ļubova Vaivode "Fyul"| TBD |  |
+| 21 | Cybersecurity 101 for startups | Ļubova Vaivode "Fyul"| [Recording](https://drive.google.com/file/d/1vBnjA2mnyZFkgtHIescmltXU82_j52G7/view?usp=drive_link) |  |
 
 
 ---
