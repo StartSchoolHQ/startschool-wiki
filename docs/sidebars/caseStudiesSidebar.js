@@ -134,8 +134,8 @@ export const   caseStudiesSidebar = [
           type: 'category',
           label: 'Session 17 | Base44',
           items: [
-            'CaseStudies/Session17/study',
-            // 'CaseStudies/Session17/debrief',
+            'CaseStudies/Session17/study17',
+            // 'CaseStudies/Session17/debrief17',
           ],
         },
       ],
